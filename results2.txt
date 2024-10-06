@@ -1,0 +1,17 @@
+Child 0 (PID: 31788): starting
+Child 0 (PID: 31788), sleeping 6 seconds after creating child 1
+Child 1 (PID: 31818): starting
+Child 1 (PID: 31818), sleeping 3 seconds after creating child 2
+Child 2 (PID: 31836): starting
+Child 2 (PID: 31836), sleeping 7 seconds after creating child 3
+Child 3 (PID: 31876): starting
+Child 3 (PID: 31876), sleeping 5 seconds after creating child 4
+Child 4 (PID: 31908): starting
+Child 4 (PID: 31908), sleeping 3 seconds after creating child 5
+Child 5 (PID: 31908) [no children created] sleeping 2 seconds
+Child 5 (PID: 31908) exiting.
+Child 4 (PID: 31908) has exited
+Child 3 (PID: 31876) has exited
+Child 2 (PID: 31836) has exited
+Child 1 (PID: 31818) has exited
+Child 0 (PID: 31788) has exited
